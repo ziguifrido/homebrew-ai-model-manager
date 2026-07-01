@@ -1,6 +1,6 @@
 cask "ai-model-manager" do
-  version "0.1.7"
-  sha256 "4cd101482c16ac698a824bdf03a2db0fcd6931e38909afd5de1ac1ab025054a4"
+  version "0.1.8"
+  sha256 "e9118a734b681a0802152cc5e92a26b2f3f8244205f79d03ca7fb9277d166918"
 
   url "https://github.com/ziguifrido/ai-model-manager/releases/download/v#{version}/AIModelManager.zip"
 
